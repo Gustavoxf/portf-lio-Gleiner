@@ -1,0 +1,38 @@
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #a205d1;
+    color: #fff;
+    text-align: center;
+    padding: 1px 0;
+    z-index: 100;
+}
+#sobremim > h1{
+    text-align: center;
+}
+#sobremim > img{
+    width: 50%;
+    min-width:300px;
+    max-width: 550px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#sobremim > p{
+    font-size: large;
+}
+#projetos > img{
+      width: 50%;
+    min-width:300px;
+    max-width: 550px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#projetos > p{
+    font-size: x-large;
+    text-align: center;
+}
+
